@@ -1,2 +1,4 @@
 # JavaScript
-all My projects JS
+all My JS projects 
+
+This depository contains all my projects js Projects
